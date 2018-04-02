@@ -1,0 +1,22 @@
+{
+  "name": "it-is",
+  "version": "0.0.1",
+  "description": "Data types methods validator",
+  "main": "it-is.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e1016/it-is.git"
+  },
+  "keywords": [
+    "typeof"
+  ],
+  "author": "Eliseo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e1016/it-is/issues"
+  },
+  "homepage": "https://github.com/e1016/it-is#readme"
+}
