@@ -44,6 +44,11 @@
         it.length !== undefined &&
         it.length !== null
       )
+    },
+    Infinity: function (it) {
+      return (
+        it === Infinity
+      )
     }
   }
 })
